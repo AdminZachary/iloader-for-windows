@@ -1,3 +1,10 @@
+> [!WARNING]
+> **本项目已迁移至 [AdminZachary/WatchBridge](https://github.com/AdminZachary/WatchBridge)。**
+> 新仓库继续维护 Windows 与 macOS 版本；本仓库仅保留历史版本，不再更新。
+>
+> **This repository has moved to [AdminZachary/WatchBridge](https://github.com/AdminZachary/WatchBridge).**
+> Development for Windows and macOS continues there; this copy is kept for history only.
+
 <div align="center">
 
 <img src="public/watchbridge.svg" width="104" alt="WatchBridge" />
